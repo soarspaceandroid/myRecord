@@ -1,3 +1,6 @@
+一下内容纯属他人收集,个人觉得比较全面,感谢github基友
+原地址是 : https://github.com/Trinea/android-open-project#%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86-%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7
+
 Android 开源项目分类汇总
 
 
